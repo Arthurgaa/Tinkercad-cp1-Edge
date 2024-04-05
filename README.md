@@ -1,5 +1,4 @@
-README
-Descrição do Projeto
+
 Este projeto consiste em um sistema de monitoramento de luminosidade utilizando um sensor de luz (LDR) e LEDs indicadores. O sistema possui três estados de luminosidade:
 
 Luminosidade baixa: Indicada pelo LED verde aceso.
