@@ -1,3 +1,7 @@
+Arthur Galvão Alves rm554462
+Maria Alice Freitas Araújo rm557516
+Felipe Braunstein e Silva rm554483
+Thiago de Barros Oliveira rm555485
 
 Este projeto consiste em um sistema de monitoramento de luminosidade utilizando um sensor de luz (LDR) e LEDs indicadores. O sistema possui três estados de luminosidade:
 
