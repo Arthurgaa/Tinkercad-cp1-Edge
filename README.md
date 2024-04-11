@@ -18,6 +18,7 @@ Sensor LDR (Light Dependent Resistor): Um sensor que varia sua resistência com 
 LEDs (verde, amarelo e vermelho): Para indicar os diferentes estados de luminosidade.
 Buzzer: Para fornecer feedback sonoro ao usuário.
 Resistores: Para limitar a corrente nos LEDs e no buzzer, de acordo com suas especificações.
+
 Como Reproduzir
 Para reproduzir este projeto, siga as etapas abaixo:
 
@@ -28,7 +29,7 @@ Carregue o código fornecido neste repositório na Arduino IDE.
 Verifique e compile o código para garantir que não haja erros.
 Faça o upload do código para o Arduino.
 Monitore a luminosidade ambiente observando os LEDs e ouvindo o buzzer.
-Funcionamento
+Funcionamento.
 O código funciona da seguinte maneira:
 
 Inicializa os pinos como entrada ou saída.
@@ -36,3 +37,5 @@ Lê a luminosidade do sensor LDR.
 Compara a luminosidade com os limiares definidos para determinar o estado de luminosidade.
 Aciona os LEDs e o buzzer de acordo com o estado de luminosidade detectado.
 Certifique-se de ajustar os limiares de acordo com as condições de luminosidade do ambiente onde o sistema será instalado para obter resultados precisos.
+
+https://www.tinkercad.com/things/0JBvMIV0L2Y-cp1-edge-gpt/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=awE7SuSSCUvth8KMI1uSr4BT9w5dD5KC9ueyQIn7HdM
