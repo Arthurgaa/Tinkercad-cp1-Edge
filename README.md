@@ -20,6 +20,7 @@ Buzzer: Para fornecer feedback sonoro ao usuário.
 Resistores: Para limitar a corrente nos LEDs e no buzzer, de acordo com suas especificações.
 
 Como Reproduzir
+
 Para reproduzir este projeto, siga as etapas abaixo:
 
 Conecte o sensor LDR ao pino analógico A0 do Arduino.
